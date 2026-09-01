@@ -1,0 +1,1 @@
+# Architecture\n\nMarket data → Momentum Spider + Volume Spider + Sentiment Spider → Synthesis Web Core → Risk Profile Filter → Explainable Recommendation.\n\nThe same input can produce different recommendations for Guardian, Hero and Web-Slinger modes. If a feed fails, fallback mode is shown explicitly and confidence is reduced.\n
